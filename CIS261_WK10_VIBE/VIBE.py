@@ -1,5 +1,3 @@
-#CIS261
 #Jordan Archer
+#CIS261
 #WK10 VIBE Coding
-
-print("Hellow World")
